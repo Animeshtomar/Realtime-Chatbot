@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Created by [Shivam Rana](https://github.com/Shivam-Rana14)
+Created by [Animesh Tomar](https://github.com/Animeshtomar)
