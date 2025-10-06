@@ -30,7 +30,7 @@ A modern, real-time chatbot application built with Next.js 15, featuring a beaut
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shivam-Rana14/Realtime-Chatbot.git
+git clone https://github.com/Animeshtomar/Realtime-Chatbot.git
 cd Realtime-Chatbot
 ```
 
